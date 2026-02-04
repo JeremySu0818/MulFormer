@@ -19,7 +19,7 @@ hf_logging.set_verbosity_error()
 ds_logging.set_verbosity_error()
 
 DATA_DIR = "data_mul"
-OUTPUT_DIR = "mulformer_result"
+OUTPUT_DIR = "mulformer"
 MODEL_DIM = 64
 N_LAYER = 8
 N_HEAD = 8
